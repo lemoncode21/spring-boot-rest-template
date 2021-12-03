@@ -1,0 +1,7 @@
+server:
+  name: Spring-boot-rest-template
+  port: 8081
+
+url:
+  usa:
+    population: https://datausa.io/api/data?drilldowns=Nation&measures=Population
